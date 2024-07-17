@@ -16,7 +16,7 @@ I invite you to explore my GitHub repositories, where you'll find a collection o
 
 Feel free to check out my projects, provide feedback, and watch my progress as I continue to develop my skills and work on exciting new games. Thank you for visiting my profile, and I look forward to sharing my journey with you!
 
-#week 1: 
+# week 1: 
 
 **Day1:**
 - 
@@ -33,7 +33,7 @@ Feel free to check out my projects, provide feedback, and watch my progress as I
 **Day5:**
 - 
 
-#week 2: 
+# week 2: 
 
 **Day1:**
 - 
@@ -50,7 +50,7 @@ Feel free to check out my projects, provide feedback, and watch my progress as I
 **Day5:**
 - 
 
-#week 3: 
+# week 3: 
 
 **Day1:**
 - 
@@ -67,7 +67,7 @@ Feel free to check out my projects, provide feedback, and watch my progress as I
 **Day5:**
 - 
 
-#week 4: 
+# week 4: 
 
 **Day1:**
 - 
